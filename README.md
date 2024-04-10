@@ -1,0 +1,1 @@
+# vm_ansible_azure
